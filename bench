@@ -1,0 +1,127 @@
+
+         Diablo 0.4.8 
+
+bench
+position   rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+  6       0        70     11361    g1f3 g8f6 b1c3 b8c6 e2e4 e7e5 
+  7      46       101     21247    g1f3 g8f6 b1c3 b8c6 d2d4 d7d5 c1f4 
+  8       0       331    108339    g1f3 g8f6 b1c3 b8c6 d2d4 d7d5 c1f4 c8f5 
+  9      21       842    305468    b1c3 d7d5 e2e4 d5d4 c3b5 a7a6 b5a3 g8f6 f1d3 
+  9      38      1412    522236    e2e4 b8c6 b1c3 e7e5 g1f3 f8c5 f1c4 g8f6 e1g1 
+  9      38      1462    538623    e2e4 b8c6 b1c3 e7e5 g1f3 f8c5 f1c4 g8f6 e1g1 
+ 10      12      4277   1583056    e2e4 b8c6 b1c3 e7e5 g1f3 g8f6 f1b5 f8b4 a2a3 b4c3 
+ 11      30      8042   2989793    e2e4 b8c6 b1c3 e7e5 g1f3 g8f6 f1b5 f8b4 e1g1 e8g8 
+ 12      30     10005   3710976    e2e4 b8c6 b1c3 e7e5 g1f3 g8f6 f1b5 f8b4 e1g1 e8g8 
+Time: 10.005  Nodes: 3710976  Nps: 370000 
+check 78805  prom 651  p7 12163  single 6633  mt 266  kt 0 simple 0 
+max hist: 162222  iid_cnt: 72
+position   rnbqk1nr/pp4b1/2p1p1B1/3pP2p/3P4/8/PPP2PPP/RNBQK2R b KQkq - 0 8
+  6     -35        50     16662    e8d7 g6h5 d8h4 h5f3 g8e7 b1c3 
+  7     -20       140     48256    e8d7 g6h5 d8h4 h5e2 h4e4 f2f3 e4f5 
+  8     -18       320    112500    e8d7 g6h5 d8h4 h5g4 g8h6 c1h6 g7h6 b1c3 
+  9     -12       991    349899    e8d7 g6h5 d8h4 d1g4 h4g4 h5g4 g8h6 g4h5 h6f5 
+ 10     -30      3164   1109510    e8d7 g6h5 g8e7 b1c3 d8b6 h5g4 b8a6 e1g1 c6c5 d4c5 
+ 11     -30     10004   3506176    e8d7 g6h5 g8e7 b1c3 d8b6 h5g4 b8a6 e1g1 c6c5 d4c5 
+Time: 10.004  Nodes: 3506176  Nps: 350000 
+check 228900  prom 50  p7 6232  single 4984  mt 15  kt 0 simple 0 
+max hist: 110175  iid_cnt: 79
+position   r1b1kb1r/1pqppppp/p4n2/1Bp5/3nP3/2N2N2/PPPP1PPP/R1BQR1K1 w kq - 0 7
+  3      63        10      1152    b5a4 d4f3 d1f3 
+  3      72        10      1648    b5d3 d4f3 d1f3 
+  3      79        10      2224    b5c4 b7b5 f3d4 
+  6      52       150     53425    b5d3 f6g4 g2g3 g4e5 f3d4 e5d3 
+  6      52       190     67914    b5d3 f6g4 g2g3 g4e5 f3d4 e5d3 
+  7      60       371    136189    b5e2 f6g4 g2g3 d4e2 d1e2 b7b6 c3d5 
+  7      60       421    155120    b5e2 f6g4 g2g3 d4e2 d1e2 b7b6 c3d5 
+  8      67      1492    559546    b5e2 e7e5 d2d3 f8e7 c1g5 e8g8 f3d4 c5d4 
+  9      55      3405   1277513    b5c4 d7d6 f3g5 e7e6 d2d3 c8d7 c1f4 f8e7 a2a4 
+  9      55      3695   1380739    b5c4 d7d6 f3g5 e7e6 d2d3 c8d7 c1f4 f8e7 a2a4 
+ 10      55     10015   3751936    b5c4 d7d6 h2h3 e7e5 d2d3 f8e7 f3d4 c5d4 c3d5 f6d5 
+Time: 10.015  Nodes: 3751936  Nps: 374000 
+check 340734  prom 1819  p7 13300  single 7051  mt 63  kt 0 simple 0 
+max hist: 97995  iid_cnt: 101
+position   rnbqkb1r/ppp2p1p/3p1n2/8/4PpNP/8/PPPP2P1/RNBQKB1R w KQkq - 0 7
+  6      31        60     20331    g4f6 d8f6 b1c3 c8e6 c3d5 e6d5 
+  7      19       220     76435    g4f6 d8f6 b1c3 c8e6 d2d4 f8g7 f1e2 
+  8      39       661    232147    g4f6 d8f6 b1c3 c8e6 d2d4 h8g8 c3d5 e6d5 
+  9      28      2373    848182    g4f6 d8f6 b1c3 c8e6 d2d4 f8h6 f1b5 c7c6 b5e2 
+ 10      28      5998   2152746    g4f6 d8f6 b1c3 c8e6 d2d4 f8h6 c3d5 e6d5 e4d5 f6e7 
+ 11      28     10014   3596288    g4f6 d8f6 b1c3 c8e6 d2d4 f8h6 c3d5 e6d5 e4d5 f6e7 
+Time: 10.014  Nodes: 3596288  Nps: 359000 
+check 508005  prom 190  p7 3814  single 5749  mt 147  kt 0 simple 0 
+max hist: 103668  iid_cnt: 27
+position   r3k2r/2q1bppp/p1b1pn2/1p2P3/8/P1N2B2/1PP3PP/R1BQ1R1K b kq - 0 14
+  6       9       160     58420    a8d8 d1e2 f6d5 c1d2 e8g8 c3d5 
+  7       0       391    151293    a8d8 f3c6 c7c6 d1e2 f6d5 c1d2 d5c3 
+  8       1       901    356767    a8d8 d1e2 f6d5 c3d5 c6d5 f3d5 d8d5 e2h5 
+  9     -14      2263    897013    a8d8 f3c6 c7c6 c1d2 f6d7 d1g4 h8g8 d2f4 e7c5 
+ 10     -18      6059   2400584    a8d8 d1e1 f6d5 e1g3 h8g8 f3e4 h7h5 g3f3 e7c5 e4d5 
+ 11     -18     10014   3964928    a8d8 d1e1 f6d5 e1g3 h8g8 f3e4 h7h5 g3f3 e7c5 e4d5 
+Time: 10.014  Nodes: 3964928  Nps: 395000 
+check 593139  prom 1816  p7 11178  single 16299  mt 900  kt 0 simple 0 
+max hist: 51136  iid_cnt: 115
+position   1n1b1kr1/r4p1p/pp1q4/2pNN2Q/8/6P1/PPP2PBP/2KR4 w - - 0 19
+  4     146        30      8391    d5e3 d6c7 h5h7 g8g7 
+  6     162       221     74286    d5e3 d6f6 h5h7 g8g7 h7h8 g7g8 
+  7     160       391    137500    e5f7 a7f7 d5f4 d6f6 d1d8 f6d8 f4e6 
+  7     174      1513    549594    h2h4 f8g7 d5e3 d6f6 e3g4 f6e6 g2e4 
+  7     174      1563    561361    h2h4 f8g7 d5e3 d6f6 e3g4 f6e6 g2e4 
+  8     173      4537   1674053    f2f4 d6e6 g2h3 e6e8 h5h7 d8g5 c1b1 g8g7 
+  8     186      4827   1783629    d5e3 d6f6 f2f4 d8c7 e3g4 f6e7 h5h7 g8g7 
+  8     186      5428   2006712    d5e3 d6f6 f2f4 d8c7 e3g4 f6e7 h5h7 g8g7 
+  9     238      7641   2839711    e5f7 a7f7 d5f4 d6f6 d1d8 f6d8 f4e6 f8e7 e6d8 
+  9     238      9644   3621370    e5f7 a7f7 d5f4 d6f6 d1d8 f6d8 f4e6 f8e7 e6d8 
+ 10     238     10005   3760128    e5f7 a7f7 d5f4 d6f6 d1d8 f6d8 f4e6 f8e7 e6d8 g8d8 
+Time: 10.005  Nodes: 3760128  Nps: 375000 
+check 882578  prom 0  p7 50  single 14240  mt 468  kt 0 simple 0 
+max hist: 104596  iid_cnt: 102
+position   3rr1k1/pp2bppp/1qp1n1b1/3n4/2BP4/P4NNP/1P1B1PP1/2RQR1K1 w - - 0 19
+  6     -73       270     96786    c4d5 d8d5 d2c3 e7d6 g3e4 d6f4 
+  7     -73       841    316631    h3h4 e6d4 h4h5 d4f3 d1f3 b6b2 h5g6 
+  7     -73       861    323204    h3h4 e6d4 h4h5 d4f3 d1f3 b6b2 h5g6 
+  8     -66      3515   1357579    c4d5 d8d5 d2c3 e7d6 f3h4 d6g3 f2g3 g6h5 
+  8     -66      4016   1546513    c4d5 d8d5 d2c3 e7d6 f3h4 d6g3 f2g3 g6h5 
+  9     -66      7811   3069827    c4d5 d8d5 d2c3 a7a5 g3e4 g6h5 g2g4 h5g6 d1d3 
+ 10     -75     10014   3932160    c4d5 d8d5 d2c3 e7d6 f3h4 d6f4 c1a1 f4g3 f2g3 g6h5 
+Time: 10.014  Nodes: 3932160  Nps: 392000 
+check 917277  prom 23  p7 129  single 331  mt 45  kt 0 simple 0 
+max hist: 14138  iid_cnt: 64
+position   4rbk1/2pb1qpp/p2p1p2/3P4/n1NQNB2/RP1P1P1P/6P1/6K1 b - - 0 26
+  6     -25        90     31126    a4c5 b3b4 c5a4 a3a1 f6f5 e4g5 
+  7     -10       190     72504    a4c5 b3b4 c5a4 a3a1 f6f5 e4g5 f7g6 
+  8     -22       591    234137    a4c5 b3b4 c5a4 a3a1 f8e7 a1e1 e8b8 c4d2 
+  9     -13      2854   1168841    a4c5 b3b4 c5a4 a3a1 f8e7 a1e1 e8b8 d4a7 b8b4 
+ 10      -9      6369   2641297    a4c5 b3b4 c5a4 f4e3 f7g6 d4a7 d7h3 g2g4 a4b6 c4b6 
+ 11      -9     10015   4112384    a4c5 b3b4 c5a4 f4e3 f7g6 d4a7 d7h3 g2g4 a4b6 c4b6 
+Time: 10.015  Nodes: 4112384  Nps: 410000 
+check 994233  prom 86  p7 1386  single 5293  mt 361  kt 0 simple 0 
+max hist: 38774  iid_cnt: 62
+position   2rr2k1/pp2Bnq1/4R1p1/5p1p/B2P1P2/2P5/P5P1/4Q1K1 w - - 0 33
+  6     206        70     25547    e7d8 f7d8 a4e8 g8h8 e6g6 g7h7 
+  7     169       160     63257    e7d8 c8d8 e6e7 d8d4 c3d4 g7d4 e1f2 
+  8     169       310    121321    e7d8 c8d8 e6e7 d8d4 c3d4 g7d4 e1f2 d4a4 
+  9     245      1121    457971    e7d8 c8d8 a4e8 f7h8 e6e7 g7f6 e7b7 a7a5 e1e3 
+ 10     243      2333    962617    e7d8 c8d8 a4e8 f7h8 e6e7 g7f6 e7b7 a7a5 e1e7 f6e7 
+ 11     246      7510   3082926    e7d8 c8d8 a4e8 f7h8 e6e7 g7f6 e7b7 a7a5 e1e3 h5h4 
+ 12     242     10004   4145152    e7d8 c8d8 a4e8 f7h8 e6e7 g7f6 e7b7 a7a5 a2a3 g8f8 
+Time: 10.004  Nodes: 4145152  Nps: 414000 
+check 1245084  prom 37  p7 978  single 21264  mt 1109  kt 0 simple 101 
+max hist: 113835  iid_cnt: 43
+position   8/8/8/3K1P2/2p4p/k2p3P/3Br3/1R6 w - - 0 67
+  3     158        10      1213    d2b4 a3a2 b1c1 
+  4     221        10      3424    d2c3 a3a2 b1b7 d3d2 
+  6     323        40     16734    d2c3 a3a2 b1b7 a2a3 d5c4 d3d2 
+  7     357        80     32712    d2c3 a3a2 b1b7 e2h2 d5c4 h2h3 f5f6 
+  8     347       150     69849    d2c3 a3a2 b1b7 e2h2 d5c4 h2h3 b7a7 a2b1 
+  9     369       360    183880    d2c3 a3a2 b1b7 e2h2 d5c4 h2h3 f5f6 h3f3 f6f7 
+ 10     397       771    421315    d2c3 a3a2 b1b5 e2h2 d5c4 h2h3 b5d5 h3e3 f5f6 h4h3 
+ 11     434      2153   1198131    d2c3 a3a2 b1b7 d3d2 b7b2 h2h3 b5d5 h3e3 f5f6 h4h3 
+ 12     509      4156   2352370    d2c3 a3a2 b1b5 e2e3 d5c4 d3d2 b5b2 a2a1 b2d2 a1b1 
+ 13     518     10014   5627904    d2c3 a3a2 b1b5 d3d2 b5b2 a2a3 b2d2 e2e8 d5c4 e8c8 
+Time: 10.014  Nodes: 5627904  Nps: 562000 
+check 1730676  prom 89109  p7 78450  single 10252  mt 5306  kt 0 simple 8172 
+max hist: 223114  iid_cnt: 238
+Averages: 
+  depth: 11.10 
+  nps: 401079 
+

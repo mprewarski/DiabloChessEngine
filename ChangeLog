@@ -1,0 +1,44 @@
+
+Diablo 0.5
+ - re-wrote in check routine stuff
+ - search, blah blah
+
+Diablo 0.4	August, 2006
+ - mostly eval changes
+
+Diablo 0.3	April 15, 2005
+
+ - Move quickly when only one root move
+ - minor changes to extensions
+ - minor eval changes
+ - added some basic draw detection
+ - added aspiration windows
+ - fixed pawn evaluation bug
+
+Diablo 0.2 	March 25, 2005
+
+ - Fixed bug with UCI interface when getting number of moves left in games
+ with time controls of X moves in Y minutes.  This could seriously affect
+ performance in these games.
+
+ - Fixed bug with attack board based SEE routines, attack boards were changing
+ after null move search.
+
+ - Fixed bug in futility pruning as pointed out by Tord Romstad.  Not a
+ serious bug, but wasn't working how I thought.
+
+ - Generate tables to use for calculating attack board based SEE.
+
+ - Added bug fixes sent in by Dan Corbit.  Most changes involved sloppy
+ function prototypes and in at least one case of not passing correct number of
+ parameters to a function.  Thanks Dan.
+
+ - Minor evaluation changes
+    o Knight outposts
+    o minor piece table changes
+    o king safety
+
+ - Minor changes to extensions.
+
+Diablo 0.1	March 2005
+ - Initial version
